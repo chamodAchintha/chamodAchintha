@@ -5,8 +5,8 @@ Hey there! I'm Chamod Achintha, a dedicated data enthusiast with a fervor for Ma
 
 ## Skills:
 * Machine Learning &nbsp;&nbsp;&nbsp;&nbsp; Deep Learning
-* Data Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Preprocessing
-* Data Visualization   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Natural Language Processing (NLP)
+* Data Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Preprocessing
+* Data Visualization   &nbsp;&nbsp;&nbsp;&nbsp;   Natural Language Processing (NLP)
 
 ## Tech Stack:
 * Programming Languages: Python, Java, C++, HTML,CSS,JS
