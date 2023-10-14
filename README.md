@@ -4,7 +4,7 @@
 Hey there! I'm Chamod Achintha, a dedicated data enthusiast with a fervor for Machine Learning and Data Science. I thrive on turning raw data into meaningful insights and innovative solutions.
 
 ## Skills:
-* Machine Learning       Deep Learning
+* Machine Learning       * Deep Learning
 * Data Analysis          Data Preprocessing
 * Data Visualization     Natural Language Processing (NLP)
 
